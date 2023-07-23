@@ -45,7 +45,8 @@ The project performs the following analyses on the YouTube data:
 
 3. Exploratory data analysis (EDA): Analyze view counts, likes, comments, and other engagement metrics to identify trends and patterns.
 
-4. Data visualization: Utilize seaborn and other libraries to create visualizations, including line charts, bar plots, and heatmaps, to present the findings effectively.
+4. Data visualization: Utilize seaborn and other libraries to create visualizations, including line charts, bar plots, and heatmaps, to present the findings 
+   effectively.
 
 5. Statistical analysis: Perform statistical calculations, such as correlations and distributions, to gain deeper insights into the viewership data.
 
