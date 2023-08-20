@@ -4,7 +4,8 @@ Welcome to the YouTube Data Analysis project! This project aims to analyze viewe
 
 ## Introduction
 
-The YouTube Data Analysis project focuses on extracting insights from a vast database of YouTube videos using the YouTube Data API. By leveraging Python, pandas, and seaborn libraries, we analyze viewership data to understand trends, engagement metrics, and popularity of specific videos.
+ The YouTube Data Analysis project focuses on extracting insights from a vast database of YouTube videos using the YouTube Data API. By leveraging Python, pandas, 
+ and seaborn libraries, we analyze viewership data to understand trends, engagement metrics, and popularity of specific videos.
 
 ## Installation
 
