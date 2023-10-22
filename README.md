@@ -1,6 +1,7 @@
 # youtube_data_analysis_
 
-Welcome to the YouTube Data Analysis project! This project aims to analyze viewership data from a huge database of YouTube videos using the YouTube Data API, Python, pandas, and seaborn libraries. 
+ Welcome to the YouTube Data Analysis project! This project aims to analyze viewership data from a huge database of YouTube videos using the YouTube Data API, 
+ Python, pandas, and seaborn libraries. 
 
 ## Introduction
 
@@ -55,7 +56,8 @@ The project performs the following analyses on the YouTube data:
 
 ## Results
 
-The YouTube Data Analysis project aims to provide meaningful insights into the viewership of specific videos on YouTube. The results may include but are not limited to:
+ The YouTube Data Analysis project aims to provide meaningful insights into the viewership of specific videos on YouTube. The results may include but are not 
+ limited to:
 
 1. Trends in view counts over time.
    
