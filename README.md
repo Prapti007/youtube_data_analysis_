@@ -59,15 +59,15 @@ The project performs the following analyses on the YouTube data:
  The YouTube Data Analysis project aims to provide meaningful insights into the viewership of specific videos on YouTube. The results may include but are not 
  limited to:
 
-1. Trends in view counts over time.
+ 1. Trends in view counts over time.
    
-2. Correlations between engagement metrics (likes, comments) and view counts of other videos.
+ 2. Correlations between engagement metrics (likes, comments) and view counts of other videos.
    
-3. Identification of popular videos based on metrics.
+ 3. Identification of popular videos based on metrics.
 
-4. who has the highest subscriber and who gets the most views and the amount of videos posted by the channels.
+ 4. who has the highest subscriber and who gets the most views and the amount of videos posted by the channels.
 
-5. The project generates visualizations and reports to make it easier to understand and interpret the results.
+ 5. The project generates visualizations and reports to make it easier to understand and interpret the results.
 
 ## Contributing
 
